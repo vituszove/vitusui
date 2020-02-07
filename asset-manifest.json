@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vitusui/static/css/main.47a508d7.chunk.css",
+    "main.js": "/vitusui/static/js/main.9a6e181e.chunk.js",
+    "main.js.map": "/vitusui/static/js/main.9a6e181e.chunk.js.map",
+    "runtime-main.js": "/vitusui/static/js/runtime-main.add6d7fc.js",
+    "runtime-main.js.map": "/vitusui/static/js/runtime-main.add6d7fc.js.map",
+    "static/js/2.ac0632c1.chunk.js": "/vitusui/static/js/2.ac0632c1.chunk.js",
+    "static/js/2.ac0632c1.chunk.js.map": "/vitusui/static/js/2.ac0632c1.chunk.js.map",
+    "index.html": "/vitusui/index.html",
+    "precache-manifest.d5a39587e4a4be862d3b8119251f36de.js": "/vitusui/precache-manifest.d5a39587e4a4be862d3b8119251f36de.js",
+    "service-worker.js": "/vitusui/service-worker.js",
+    "static/css/main.47a508d7.chunk.css.map": "/vitusui/static/css/main.47a508d7.chunk.css.map",
+    "static/js/2.ac0632c1.chunk.js.LICENSE": "/vitusui/static/js/2.ac0632c1.chunk.js.LICENSE",
+    "static/media/App.scss": "/vitusui/static/media/5.27e69e28.jpg",
+    "static/media/assassin.png": "/vitusui/static/media/assassin.d820e8e9.png",
+    "static/media/jumpforce.png": "/vitusui/static/media/jumpforce.61d486bd.png",
+    "static/media/nfs.png": "/vitusui/static/media/nfs.d395e21c.png",
+    "static/media/nier.png": "/vitusui/static/media/nier.e716ea13.png",
+    "static/media/witcher3.png": "/vitusui/static/media/witcher3.9eb64f21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add6d7fc.js",
+    "static/js/2.ac0632c1.chunk.js",
+    "static/css/main.47a508d7.chunk.css",
+    "static/js/main.9a6e181e.chunk.js"
+  ]
+}
